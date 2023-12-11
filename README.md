@@ -1,6 +1,6 @@
-Hello  I'm Diana. Recent graduate in Applied Mathematics with Economics and have little experience in Financial Data Modelling and climate data
-Data analysis and reporting using RSudio and Excel.
-Data management and Visualization using SPSS.
+Hello  I'm Diana. Recent graduate in Applied Mathematics with Economics and have little experience in Financial Data Modelling and climate data.
+-Data analysis and reporting using RSudio and Excel.
+-Data management and Visualization using SPSS.
 
 #Projects
 
